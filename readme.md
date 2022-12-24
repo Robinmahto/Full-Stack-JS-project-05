@@ -1,12 +1,13 @@
-# Assignment - 05
+# Crypto-Landing-Page
 
-## Project 05 [Live Link](https://full-stack-js-projects-05.netlify.app/)
+## Project 05 [Live Link](https://crypto-landing-pages-05.netlify.app/)
 
 - ### skills used in project
   - CSS Background images, media query, flexbox etc.
   - Learn to making background images responsive.
   - Total time taken 4hr to complete.
-### Screenshot
+## ScreenShot
+### Desktop
 ![assignment 03](crypto-landing-page-desktop.png)
 
 ### Mobile Responsive
